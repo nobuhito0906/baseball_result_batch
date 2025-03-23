@@ -156,7 +156,6 @@ def get_weekly_results():
     results.extend(daily_results)
     return results
     
-    return results
 
 def export_to_csv(results):
     """
